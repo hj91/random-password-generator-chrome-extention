@@ -31,3 +31,6 @@ The Bufferstack.IO Random Password Generator extension does not collect, store, 
 
 Harshad Joshi @ Bufferstack.IO Analytics Technology LLP, Pune
 
+## Icon Details
+
+https://www.flaticon.com/free-icon/password_421648
