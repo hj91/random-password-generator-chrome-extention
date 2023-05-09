@@ -1,0 +1,23 @@
+{
+  "manifest_version": 3,
+  "name": "Bufferstack.IO Random Password Generator",
+  "version": "1.0.0",
+  "description": "Securely generate random passwords with a single click. Licensed under GPL-3.0.",
+  "author": "Harshad Joshi",
+  "homepage_url": "https://bufferstack.io",
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icon.png",
+      "48": "icon.png",
+      "128": "icon.png"
+    }
+  },
+  "permissions": [],
+  "icons": {
+    "16": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
+  }
+}
+
